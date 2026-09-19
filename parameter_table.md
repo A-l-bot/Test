@@ -1,0 +1,24 @@
+# Parameters Table
+
+| Parameter | BOX-1 | BOX-2 | BOX-3 |
+|---|---|---|---|
+| Battery Type | LiFePO4 | LiFePO4 | LiFePO4 |
+| Nominal Voltage (V) | 51.2V | 51.2V | 25.6V |
+| Nominal Energy (KWh) | 5.12KWH | 10.24KWH | 5.12KWH |
+| Nominal Capacity (Ah) | 100Ah | 200Ah | 200Ah |
+| Design Years | 15 Years | 15 Years | 15 Years |
+| Size (mm) | 520*600*165 | 570*730*165 | 505*450*185 |
+| Weight | ≤55kg | ≤95kg | ≤55kg |
+| Cycle Life | 6000 cycles | 6000 cycles | 6000 cycles |
+| Operating Voltage Range | 40V-58.4V | 40V-58.4V | 20V-29.2V |
+| Charging Voltage | DC 58.4V | DC 58.4V | DC 29.2V |
+| Operating Temperature | -10°C-55°C | -10°C-55°C | -10°C-55°C |
+| Warranty | 10 years (2 years free warranty, rest 8 years pay actual repair costs) | 10 years (2 years free warranty, rest 8 years pay actual repair costs) | 10 years (2 years free warranty, rest 8 years pay actual repair costs) |
+| Charge/Discharge Current(A) | Same Port Max. 100A | Same Port Max. 100A | Same Port Max. 100A |
+| Internal Resistance | ≤40mΩ | ≤40mΩ | ≤40mΩ |
+| Self-Consumption | ≤2.5W | ≤2.5W | ≤2.5W |
+| Rated Voltage | 51.2V | 51.2V | 25.6V |
+| Balance Current | 30-65(MA) | 30-65(MA) | 30-65(MA) |
+| Communication Method | CAN/RS485/RS232 (Optional) | CAN/RS485/RS232 (Optional) | CAN/RS485/RS232 (Optional) |
+| Information Storage | 500 Strip | 500 Strip | 500 Strip |
+| Limiting | 10/20A(Optional) | 10/20A(Optional) | 10/20A(Optional) |
